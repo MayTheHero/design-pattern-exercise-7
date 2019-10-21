@@ -1,0 +1,1 @@
+Time of sending: 2019-10-21T19:24:03.369623400 Sender: Employee{fullName='Janusz Kowalski'} Recipients: [Employee{fullName='Piotr Kozik'}, Employee{fullName='Adam Nowacki'}] Title: titleOne Content: contentOne
